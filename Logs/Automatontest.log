@@ -928,3 +928,128 @@ is started
 2024-04-08 15:54:22,244: INFO : TestLogin_Params : test_Login_Parms005 61 : Page_TitileYour store. Login
 2024-04-08 15:54:22,281: INFO : TestLogin_Params : test_Login_Parms005 66 : Test_Login_params 005 is Passed
 2024-04-08 15:54:22,283: INFO : TestLogin_Params : test_Login_Parms005 71 : Test_case_Params 005 is completed
+2024-04-08 16:05:26,088: INFO : TestLogin_Params : test_Login_Parms005 17 : Test_case 003 is started 
+2024-04-08 16:05:26,089: INFO : TestLogin_Params : test_Login_Parms005 19 : Opening Browser
+2024-04-08 16:05:26,089: INFO : TestLogin_Params : test_Login_Parms005 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:05:26,117: INFO : TestLogin_Params : test_Login_Parms005 17 : Test_case 003 is started 
+2024-04-08 16:05:26,117: INFO : TestLogin : test_Login002 17 : Test_case 002 is started 
+2024-04-08 16:05:26,118: INFO : TestLogin : test_Login002 19 : Opening Browser
+2024-04-08 16:05:26,118: INFO : TestLogin_Params : test_Login_Parms005 19 : Opening Browser
+2024-04-08 16:05:26,118: INFO : TestLogin : test_Login002 19 : Opening Browser
+2024-04-08 16:05:26,118: INFO : TestLogin : test_Login002 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:05:26,118: INFO : TestLogin : test_Login002 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:05:26,118: INFO : TestLogin_Params : test_Login_Parms005 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:05:26,134: INFO : TestLogin : test_Login002 19 : Test_case 002 is started 
+2024-04-08 16:05:26,134: INFO : TestLogin : test_Login002 19 : Test_case 002 is started 
+2024-04-08 16:05:26,135: INFO : TestLogin : test_Login002 21 : Opening Browser
+2024-04-08 16:05:26,135: INFO : TestLogin : test_Login002 21 : Opening Browser
+2024-04-08 16:05:26,135: INFO : TestLogin : test_Login002 23 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:05:26,135: INFO : TestLogin : test_Login002 23 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:05:31,559: INFO : TestLogin : test_Login002 24 : Entering Emailadmin@yourstore.com
+2024-04-08 16:05:31,559: INFO : TestLogin : test_Login002 24 : Entering Emailadmin@yourstore.com
+2024-04-08 16:05:31,738: INFO : TestLogin : test_Login002 26 : Entering Passwordadmin
+2024-04-08 16:05:31,738: INFO : TestLogin : test_Login002 26 : Entering Passwordadmin
+2024-04-08 16:05:31,830: INFO : TestLogin : test_Login002 34 : Entering Emailadmin@yourstore.com
+2024-04-08 16:05:31,830: INFO : TestLogin : test_Login002 34 : Entering Emailadmin@yourstore.com
+2024-04-08 16:05:31,967: INFO : TestLogin_Params : test_Login_Parms005 24 : Entering Emailadmin@12yourstore.com
+2024-04-08 16:05:32,013: INFO : TestLogin : test_Login002 36 : Entering Passwordadmin
+2024-04-08 16:05:32,013: INFO : TestLogin : test_Login002 36 : Entering Passwordadmin
+2024-04-08 16:05:32,079: INFO : TestLogin_Params : test_Login_Parms005 26 : Entering Passwordadmin
+2024-04-08 16:05:32,574: INFO : TestLogin_Params : test_Login_Parms005 28 : Clicking on LoginButton
+2024-04-08 16:05:32,586: INFO : TestLogin_Params : test_Login_Parms005 61 : Page_TitileYour store. Login
+2024-04-08 16:05:32,641: INFO : TestLogin_Params : test_Login_Parms005 24 : Entering Emailadmin@yourstore.com
+2024-04-08 16:05:32,658: INFO : TestLogin_Params : test_Login_Parms005 66 : Test_Login_params 005 is Passed
+2024-04-08 16:05:32,658: INFO : TestLogin_Params : test_Login_Parms005 71 : Test_case_Params 005 is completed
+2024-04-08 16:05:32,769: INFO : TestLogin_Params : test_Login_Parms005 26 : Entering Passwordadmin
+2024-04-08 16:05:33,410: INFO : TestLogin : test_Login002 28 : Clicking on LoginButton
+2024-04-08 16:05:33,410: INFO : TestLogin : test_Login002 28 : Clicking on LoginButton
+2024-04-08 16:05:34,109: INFO : TestLogin_Params : test_Login_Parms005 28 : Clicking on LoginButton
+2024-04-08 16:05:34,778: INFO : TestLogin : test_Login002 30 : Page_TitileDashboard / nopCommerce administration
+2024-04-08 16:05:34,778: INFO : TestLogin : test_Login002 30 : Page_TitileDashboard / nopCommerce administration
+2024-04-08 16:05:34,878: INFO : TestLogin : test_Login002 33 : Clicking on Logout button
+2024-04-08 16:05:34,878: INFO : TestLogin : test_Login002 33 : Clicking on Logout button
+2024-04-08 16:05:35,444: INFO : TestLogin_Params : test_Login_Parms005 33 : Page_TitileDashboard / nopCommerce administration
+2024-04-08 16:05:35,526: INFO : TestLogin_Params : test_Login_Parms005 36 : Clicking on Logout button
+2024-04-08 16:05:36,820: INFO : TestLogin : test_Login002 36 : Test_case002 is passed
+2024-04-08 16:05:36,820: INFO : TestLogin : test_Login002 36 : Test_case002 is passed
+2024-04-08 16:05:36,821: INFO : TestLogin : test_Login002 44 : Test_case 002 is completed
+2024-04-08 16:05:36,821: INFO : TestLogin : test_Login002 44 : Test_case 002 is completed
+2024-04-08 16:05:37,736: INFO : TestLogin_Params : test_Login_Parms005 17 : Test_case 003 is started 
+2024-04-08 16:05:37,736: INFO : TestLogin_Params : test_Login_Parms005 19 : Opening Browser
+2024-04-08 16:05:37,737: INFO : TestLogin_Params : test_Login_Parms005 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:05:38,417: INFO : TestLogin_Params : test_Login_Parms005 17 : Test_case 003 is started 
+2024-04-08 16:05:38,417: INFO : TestLogin_Params : test_Login_Parms005 19 : Opening Browser
+2024-04-08 16:05:38,417: INFO : TestLogin_Params : test_Login_Parms005 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:05:40,451: INFO : TestLogin_Params : test_Login_Parms005 24 : Entering Emailadmin@yourstore.com
+2024-04-08 16:05:40,503: INFO : TestLogin_Params : test_Login_Parms005 24 : Entering Emailadmin@13yourstore.com
+2024-04-08 16:05:40,604: INFO : TestLogin_Params : test_Login_Parms005 26 : Entering Passwordadmin12
+2024-04-08 16:05:40,626: INFO : TestLogin_Params : test_Login_Parms005 26 : Entering Passwordadmin123
+2024-04-08 16:05:41,061: INFO : TestLogin_Params : test_Login_Parms005 28 : Clicking on LoginButton
+2024-04-08 16:05:41,073: INFO : TestLogin_Params : test_Login_Parms005 61 : Page_TitileYour store. Login
+2024-04-08 16:05:41,115: INFO : TestLogin_Params : test_Login_Parms005 28 : Clicking on LoginButton
+2024-04-08 16:05:41,122: INFO : TestLogin_Params : test_Login_Parms005 61 : Page_TitileYour store. Login
+2024-04-08 16:05:41,141: INFO : TestLogin_Params : test_Login_Parms005 66 : Test_Login_params 005 is Passed
+2024-04-08 16:05:41,141: INFO : TestLogin_Params : test_Login_Parms005 71 : Test_case_Params 005 is completed
+2024-04-08 16:05:41,175: INFO : TestLogin_Params : test_Login_Parms005 66 : Test_Login_params 005 is Passed
+2024-04-08 16:05:41,175: INFO : TestLogin_Params : test_Login_Parms005 71 : Test_case_Params 005 is completed
+2024-04-08 16:06:12,198: INFO : TestLogin_Params : test_Login_Parms005 17 : Test_case 003 is started 
+2024-04-08 16:06:12,198: INFO : TestLogin_Params : test_Login_Parms005 19 : Opening Browser
+2024-04-08 16:06:12,198: INFO : TestLogin_Params : test_Login_Parms005 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:06:12,213: INFO : TestLogin : test_Login002 19 : Test_case 002 is started 
+2024-04-08 16:06:12,213: INFO : TestLogin : test_Login002 19 : Test_case 002 is started 
+2024-04-08 16:06:12,213: INFO : TestLogin : test_Login002 21 : Opening Browser
+2024-04-08 16:06:12,213: INFO : TestLogin : test_Login002 21 : Opening Browser
+2024-04-08 16:06:12,213: INFO : TestLogin : test_Login002 23 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:06:12,213: INFO : TestLogin : test_Login002 23 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:06:12,305: INFO : TestLogin_Params : test_Login_Parms005 17 : Test_case 003 is started 
+2024-04-08 16:06:12,305: INFO : TestLogin_Params : test_Login_Parms005 19 : Opening Browser
+2024-04-08 16:06:12,305: INFO : TestLogin_Params : test_Login_Parms005 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:06:12,366: INFO : TestLogin : test_Login002 17 : Test_case 002 is started 
+2024-04-08 16:06:12,366: INFO : TestLogin : test_Login002 17 : Test_case 002 is started 
+2024-04-08 16:06:12,366: INFO : TestLogin : test_Login002 19 : Opening Browser
+2024-04-08 16:06:12,366: INFO : TestLogin : test_Login002 19 : Opening Browser
+2024-04-08 16:06:12,366: INFO : TestLogin : test_Login002 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:06:12,366: INFO : TestLogin : test_Login002 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:06:14,750: INFO : TestLogin_Params : test_Login_Parms005 24 : Entering Emailadmin@12yourstore.com
+2024-04-08 16:06:14,814: INFO : TestLogin : test_Login002 34 : Entering Emailadmin@yourstore.com
+2024-04-08 16:06:14,814: INFO : TestLogin : test_Login002 34 : Entering Emailadmin@yourstore.com
+2024-04-08 16:06:14,859: INFO : TestLogin_Params : test_Login_Parms005 26 : Entering Passwordadmin
+2024-04-08 16:06:14,941: INFO : TestLogin : test_Login002 36 : Entering Passwordadmin
+2024-04-08 16:06:14,941: INFO : TestLogin : test_Login002 36 : Entering Passwordadmin
+2024-04-08 16:06:15,380: INFO : TestLogin_Params : test_Login_Parms005 28 : Clicking on LoginButton
+2024-04-08 16:06:15,394: INFO : TestLogin_Params : test_Login_Parms005 61 : Page_TitileYour store. Login
+2024-04-08 16:06:15,458: INFO : TestLogin_Params : test_Login_Parms005 24 : Entering Emailadmin@yourstore.com
+2024-04-08 16:06:15,466: INFO : TestLogin_Params : test_Login_Parms005 66 : Test_Login_params 005 is Passed
+2024-04-08 16:06:15,466: INFO : TestLogin_Params : test_Login_Parms005 71 : Test_case_Params 005 is completed
+2024-04-08 16:06:15,583: INFO : TestLogin_Params : test_Login_Parms005 26 : Entering Passwordadmin
+2024-04-08 16:06:15,615: INFO : TestLogin : test_Login002 24 : Entering Emailadmin@yourstore.com
+2024-04-08 16:06:15,615: INFO : TestLogin : test_Login002 24 : Entering Emailadmin@yourstore.com
+2024-04-08 16:06:15,778: INFO : TestLogin : test_Login002 26 : Entering Passwordadmin
+2024-04-08 16:06:15,778: INFO : TestLogin : test_Login002 26 : Entering Passwordadmin
+2024-04-08 16:06:17,014: INFO : TestLogin_Params : test_Login_Parms005 28 : Clicking on LoginButton
+2024-04-08 16:06:17,130: INFO : TestLogin : test_Login002 28 : Clicking on LoginButton
+2024-04-08 16:06:17,130: INFO : TestLogin : test_Login002 28 : Clicking on LoginButton
+2024-04-08 16:06:18,409: INFO : TestLogin_Params : test_Login_Parms005 33 : Page_TitileDashboard / nopCommerce administration
+2024-04-08 16:06:18,497: INFO : TestLogin : test_Login002 30 : Page_TitileDashboard / nopCommerce administration
+2024-04-08 16:06:18,497: INFO : TestLogin : test_Login002 30 : Page_TitileDashboard / nopCommerce administration
+2024-04-08 16:06:18,507: INFO : TestLogin_Params : test_Login_Parms005 36 : Clicking on Logout button
+2024-04-08 16:06:18,580: INFO : TestLogin : test_Login002 33 : Clicking on Logout button
+2024-04-08 16:06:18,580: INFO : TestLogin : test_Login002 33 : Clicking on Logout button
+2024-04-08 16:06:20,373: INFO : TestLogin_Params : test_Login_Parms005 17 : Test_case 003 is started 
+2024-04-08 16:06:20,374: INFO : TestLogin_Params : test_Login_Parms005 19 : Opening Browser
+2024-04-08 16:06:20,374: INFO : TestLogin_Params : test_Login_Parms005 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:06:21,329: INFO : TestLogin_Params : test_Login_Parms005 17 : Test_case 003 is started 
+2024-04-08 16:06:21,330: INFO : TestLogin_Params : test_Login_Parms005 19 : Opening Browser
+2024-04-08 16:06:21,330: INFO : TestLogin_Params : test_Login_Parms005 21 : going to urlhttps://admin-demo.nopcommerce.com/
+2024-04-08 16:06:23,146: INFO : TestLogin_Params : test_Login_Parms005 24 : Entering Emailadmin@13yourstore.com
+2024-04-08 16:06:23,236: INFO : TestLogin_Params : test_Login_Parms005 26 : Entering Passwordadmin123
+2024-04-08 16:06:24,048: INFO : TestLogin_Params : test_Login_Parms005 24 : Entering Emailadmin@yourstore.com
+2024-04-08 16:06:24,140: INFO : TestLogin_Params : test_Login_Parms005 26 : Entering Passwordadmin12
+2024-04-08 16:06:24,280: INFO : TestLogin_Params : test_Login_Parms005 28 : Clicking on LoginButton
+2024-04-08 16:06:24,291: INFO : TestLogin_Params : test_Login_Parms005 61 : Page_TitileYour store. Login
+2024-04-08 16:06:24,338: INFO : TestLogin_Params : test_Login_Parms005 66 : Test_Login_params 005 is Passed
+2024-04-08 16:06:24,338: INFO : TestLogin_Params : test_Login_Parms005 71 : Test_case_Params 005 is completed
+2024-04-08 16:06:24,544: INFO : TestLogin_Params : test_Login_Parms005 28 : Clicking on LoginButton
+2024-04-08 16:06:24,552: INFO : TestLogin_Params : test_Login_Parms005 61 : Page_TitileYour store. Login
+2024-04-08 16:06:24,604: INFO : TestLogin_Params : test_Login_Parms005 66 : Test_Login_params 005 is Passed
+2024-04-08 16:06:24,604: INFO : TestLogin_Params : test_Login_Parms005 71 : Test_case_Params 005 is completed
